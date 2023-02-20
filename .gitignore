@@ -1,2 +1,4 @@
 *.md
 openai_key
+__pycache__
+report.docx
